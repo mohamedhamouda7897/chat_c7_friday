@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578468966785",
+    "project_id": "chat-c7-friday",
+    "storage_bucket": "chat-c7-friday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578468966785:android:23b210a11b85712558f880",
+        "android_client_info": {
+          "package_name": "com.example.chat_c7_fri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578468966785-9fnndn2gtkmfgvkq10nnqjniee01jku4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDrBHdQyk0BOQEJxZjB0p0_K-JYaJTI-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578468966785-9fnndn2gtkmfgvkq10nnqjniee01jku4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
